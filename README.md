@@ -1,5 +1,5 @@
 # kubernetes-passo-a-passo
-Material desenvolvido da live: Fullcycle - kubernetes passo a passo. Essa live é um preparatório para a semana Inmersão fullcycle 13
+Material desenvolvido da live: Fullcycle - kubernetes passo a passo. Essa live é um preparatório para a semana Imersão fullcycle 13
 
 Foi utilizado a ferramenta Kind pra instanciar um kluster
 https://kind.sigs.k8s.io/
